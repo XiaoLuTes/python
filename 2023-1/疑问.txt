@@ -5,3 +5,10 @@
 2、连接数据库
 3、git+Jenkins持续集成
 
+git：
+1、git add .(文件名)  将工作区的某个文件夹或.(当前文件夹)推送到暂存区
+2、git commit -m "注释"  将暂存区的文件推送到本地库(需要暂存区有文件更新)
+3、git remote add origin 首次提交需要关联远程仓库
+4、git push origin master(分支名) 将本地库的文件推送到git远程库(需要已设置origin远程库链接)
+5、git push -f  远程仓库名 远程仓库分支
+    强制推送(会覆盖掉远程仓库)
