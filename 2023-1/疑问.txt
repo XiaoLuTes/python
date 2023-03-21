@@ -12,3 +12,9 @@ git：
 4、git push origin master(分支名) 将本地库的文件推送到git远程库(需要已设置origin远程库链接)
 5、git push -f  远程仓库名 远程仓库分支
     强制推送(会覆盖掉远程仓库)
+####################将最后一次修改还原##################
+# 查看提交记录
+git-log
+# 找到倒数第2次提交的commitID
+# 版本回退
+git reset commitID --hard
