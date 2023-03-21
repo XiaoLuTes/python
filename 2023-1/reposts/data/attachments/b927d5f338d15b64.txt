@@ -1,0 +1,2 @@
+INFO     cloud:test_file.py:117 断言相符，断言通过
+INFO     cloud:test_file.py:162 用例名称：获取相薄-冒烟,请求方式：post,请求url：https://personal-pds-njs.yun.139.com/hcy/album/get,请求参数：{'albumId': 'ZXoBAHTUTRP', 'coverThumbnailStyle': 'Small'},服务器返回结果：{"success":true,"code":"0000","message":"请求成功","data":{"albumId":"ZXoBAHTUTRP","owner":"1069539728929497164","name":"666","description":"描述","cover":null,"createdAt":"2023-03-21T01:19:33.813Z","updatedAt":"2023-03-21T01:19:33.813Z","fileCount":0}},断言结果:{'message': '断言相符，断言通过'}
