@@ -1,0 +1,2 @@
+INFO     cloud:test_file.py:117 断言相符，断言通过
+INFO     cloud:test_file.py:162 用例名称：删除相簿-冒烟,请求方式：post,请求url：https://personal-pds-njs.yun.139.com/hcy/album/delete,请求参数：{'albumId': '77FTGWzRsPH'},服务器返回结果：{"success":true,"code":"0000","message":"请求成功","data":null},断言结果:{'message': '断言相符，断言通过'}
