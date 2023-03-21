@@ -5,6 +5,8 @@ import pytest
 if __name__ == '__main__':
     pytest.main()
     os.system("allure generate ./temp -o ./reposts --clean")
+    # os.system适用windows命令行去执行
+    # 构建allure报告  使用./temp目录下的文件去生成到./reposts文件夹内
 
 # ......................我佛慈悲......................
 #                        _oo0oo_
