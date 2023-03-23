@@ -1,9 +1,10 @@
 import yaml
-extractfile = r"D:\python\2022-12\2023-1\extract.yaml"
+import os
+extractfile = os.getcwd() + r'/extract.yaml'
 # 提取变量文件路径
-yaml_load = r"D:\python\2022-12\2023-1/"
+yaml_load = os.getcwd()
 # yaml用例文件路径
-all_yaml = r"D:\python\2022-12\2023-1\all.yaml"
+all_yaml = os.getcwd() + r'/all.yaml'
 # 全局变量文件路径
 def write_yaml(data):
     # 写入全局变量

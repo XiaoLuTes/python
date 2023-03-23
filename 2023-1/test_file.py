@@ -1,4 +1,5 @@
 import json
+import os
 import re
 import allure
 import jsonpath
@@ -8,7 +9,7 @@ from common import yaml_util
 from logger import logger
 from common import excel_read
 
-fileload = r"D:\python\2022-12\2023-1\test_cloud\test_cloud_saas.xlsx"
+fileload = os.getcwd() + r'/test_cloud/test_cloud_saas.xlsx'
 # 测试用例绝对路径
 class TestFile:
     req = None

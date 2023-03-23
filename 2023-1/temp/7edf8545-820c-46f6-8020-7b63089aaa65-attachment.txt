@@ -1,1 +1,0 @@
-WARNING  cloud:test_file.py:110 断言类型[json_value]-->实际结果：{"success":false,"code":"04000010","message":"资源不存在","data":null} ；期望结果：{"code":"0000"} 不相符，断言失败
