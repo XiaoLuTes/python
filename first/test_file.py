@@ -9,7 +9,7 @@ from common import yaml_util
 from logger import logger
 from common import excel_read
 
-fileload = os.getcwd() + r'/test_cloud/test_cloud_saas.xlsx'
+fileload = os.getcwd() + r'/first/test_cloud/test_cloud_saas.xlsx'
 # 测试用例绝对路径
 class TestFile:
     req = None
