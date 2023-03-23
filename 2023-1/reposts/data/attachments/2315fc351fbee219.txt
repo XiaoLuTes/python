@@ -1,2 +1,0 @@
-INFO     cloud:test_file.py:118 断言相符，断言通过
-INFO     cloud:test_file.py:163 用例名称：列举相薄中的照片-冒烟,请求方式：post,请求url：https://personal-pds-njs.yun.139.com/hcy/album/listFiles,请求参数：{'albumId': 'RSoBCX54Pb3', 'orderDirection': 'ASC', 'orderBy': 'joinedAt', 'coverThumbnailStyle': ['Samll'], 'pageInfo': {'pageCursor': '', 'pageSize': 10}},服务器返回结果：{"success":true,"code":"0000","message":"请求成功","data":{"items":null,"nextPageCursor":null}},断言结果:{'message': '断言相符，断言通过'}
