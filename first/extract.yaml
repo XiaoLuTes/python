@@ -16,11 +16,13 @@ headers3:
   x-DeviceInfo: 1|172.16.50.15|1|9.5.1|samsung|SM-G977N|4B4FFE68E3590F2A4E1F5B298867EBF1|02-00-00-00-00-00|android
     7.1.2|1440X2560|zh|||
 headers_saas:
-  Authorization: Basic bW9iaWxlOjE4MTczNjQ3OTkyOklYbFViZEQ3fDF8UkNTfDE2ODE2MjgzODQ0MDB8cmVsQjdfeHZuSG9hSHlSODdaaC50S09VTXVyTWxQMHgzSE9PT001WldTZUlTaDVMSkJvckloUzRhUnpKVjhDNjV6NkF5MnVXT2p0aUZNZnlpSmowY3lteklXdWl1R2JYTDFydjRWTUxKdTBXd3ZTNnBDYXlMdzVMcUFSQlZMc3ZzbUo5TWtOYUROQy5iT3NYdzNMYUxWUnozWmJRbjFjb3kyTGVCNkg5cl9ZLQ==
+  Authorization: Basic bW9iaWxlOjE4MTczNjQ3OTkyOlhmMGsxM1A3fDF8UkNTfDE2ODI0NzUyMzM2MTR8S2VMUXo0VjcuVGxWYVk3bmRkdDEzaVBVNlcya0dBVWZkSjFZLnpPT0U5a29tTUYxRTB5SnlvSGhaWUxOZ2IwZmlob04zQ1pWQ05UaG5WNXd2dllmaUdKeVlObF80OHVWenN5eEtvdVhkMTJQbUhMaDNma0FmeWNMYzdEVXRmZ2M4RDFtSmVycUxPVHR3RmNaVlJHYVU1RVZXZzZzOVd1UVNLN1dWTTBzNXhFLQ==
   Content-Type: application/json;charset=UTF-8
   x-yun-api-version: v1
+  x-yun-app-channel: '10200153'
+  x-yun-client-info: '1'
 headers_saas2:
-  Authorization: Basic cGg1OjE1MzQ3NzEyNzc1Old4UDd1eUtIfDF8MXwxNjgwNzYxMzQxMTI2fFRRbEh4QVpmZy5pTGw1U2pUaUFWbWlpQW10OGVwZHBPajJVRld0VUI2Vnk1eDJpWVY0UnV3TlJ0cE1nT3lobVIuNVVNTldUa3NrSVpMTzB6SEJna3dSTjdFSmVTUHcuenE1a1pmSE1qQXc2bjFhMUM4WUlKTnJySGJnNFhJZndnWnRKTzlBeHVDSWI3cm00ZFlQdUxnZW5qejdjWG02N2lIN3hXVlI2Zy5pRS0=
+  Authorization: Basic bW9iaWxlOjE4MTczNjQ3OTkyOlhmMGsxM1A3fDF8UkNTfDE2ODI0NzUyMzM2MTR8S2VMUXo0VjcuVGxWYVk3bmRkdDEzaVBVNlcya0dBVWZkSjFZLnpPT0U5a29tTUYxRTB5SnlvSGhaWUxOZ2IwZmlob04zQ1pWQ05UaG5WNXd2dllmaUdKeVlObF80OHVWenN5eEtvdVhkMTJQbUhMaDNma0FmeWNMYzdEVXRmZ2M4RDFtSmVycUxPVHR3RmNaVlJHYVU1RVZXZzZzOVd1UVNLN1dWTTBzNXhFLQ==
   Content-Type: application/json;charset=UTF-8
 headers_saas3:
   x-yun-api-version: v1
@@ -36,4 +38,4 @@ url_cloud: https://miniprogram.mail.10086.cn/ecloud/yun-dev/hcy/family/adapter
 url_saas: https://miniprogram.mail.10086.cn/personal-ali-test/hcy
 url_saas_real: https://personal-pds-njs.yun.139.com/hcy
 name: 动物
-albumId: vtfQgnyymV6
+albumId: HaDCEp2iWnS

@@ -10,7 +10,7 @@ from logger import logger
 from common import excel_read
 
 fileload = os.getcwd() + r'/first/test_cloud/test_cloud_saas.xlsx'
-# 测试用例绝对路径
+# 测试用例相对路径(Linux环境下，os.getcwd为获取工作目录路径，即2022-12，Windows环境下，os.getcwd为获取当前目录路径)
 class TestFile:
     req = None
     validata_result = {

@@ -2,7 +2,7 @@ import yaml
 import os
 extractfile = os.getcwd() + r'/first/extract.yaml'
 # 提取变量文件路径
-yaml_load = os.getcwd() + r'/first'
+yaml_load = os.getcwd()
 # yaml用例文件路径
 all_yaml = os.getcwd() + r'/first/all.yaml'
 # 全局变量文件路径
